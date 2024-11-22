@@ -4,5 +4,6 @@ listing:
   contents: projects.yml
   type: table
   max-description-length: 250
+  filter-ui: False
   
 ---
