@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  search: False
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: ""
+  navbar:
+    title: "Jay Singh"
+    background: "#243642"
+    right:
+       - href: publication/index.qmd
+       - href: funding/index.qmd
+      
+       
+   
+    
+      
+format:
+  html:
+    backgroundcolor: "#FAF6E3"
+    theme: [cosmo, styles.scss]
+    page-layout: full
+    toc: true
+    
+

@@ -1,0 +1,9 @@
+---
+title: Funding
+listing:
+  contents: funding.yml
+  type: table
+  max-description-length: 250
+  filter-ui: False
+  
+---
